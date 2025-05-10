@@ -8,9 +8,26 @@ This is simple project and learnings for the APTOS
 **Security:** Funds are held and transferred through verified logic.
 
 **Automation:** Once the required total amount is collected, it auto-settles by transferring the funds to the designated recipient.
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**> git --version**
 
+**> git clone init https://github.com/codivv/simpleproject_APTOS.git**
+
+**> cd simpleproject_APTOS.gi**t
+
+**> git status**
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Using WINDOWS > https://aptos.dev/en/build/cli/install-cli/install-cli-windows
+
+**Terminal POWERSHELL**
+
+**> Set-ExecutionPolicy RemoteSigned -Scope CurrentUser; iwr https://aptos.dev/scripts/install_cli.ps1 | iex**
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+On VSCODE
+
+> aptos init 
 
 
