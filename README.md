@@ -1,4 +1,4 @@
-# Simple Project for the APTOS
+# Simple Project for the APTOS "Decentralized Splitter" https://www.figma.com/design/x26nsseAYFjYXvAKAV0W56/Figma-basics?node-id=1669-162202&t=ZpKNNHXYNCka782X-1
 This is simple project and learnings for the APTOS 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 **The purpose of this project is to enable a group of users to split expenses in a decentralized, trustless way using smart contracts on the Aptos blockchain.**
