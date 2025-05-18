@@ -1,4 +1,4 @@
-# **TrustAPT (TAPT) - APTOS Blockain for Transfer APT Tool**
+# **TrustAPT (TAPT) - APTOS Blockain for Transfer APT Tool** <ins>http://tiny.cc/visualdesign</ins>
 
 ## **🔍 Overview**
 TrustAPT (TAPT) is a decentralized application built on the APTOS blockchain that enables users to send APT tokens securely in split group expenses.
@@ -31,18 +31,15 @@ Features Description
 - Frontend: React, Next.js with Aptos wallet integration.
 - Wallets Supported: Petra, Martian.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
-# Simple Project for the APTOS "Decentralized Splitter" https://www.figma.com/design/x26nsseAYFjYXvAKAV0W56/Figma-basics?node-id=1669-162202&t=ZpKNNHXYNCka782X-1
-This is simple project and learnings for the APTOS 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**The purpose of this project is to enable a group of users to split expenses in a decentralized, trustless way using smart contracts on the Aptos blockchain.**
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Transparency:** All contributions and expense data are recorded on-chain.
+## 🔧 Prerequisite
+Before you begin, ensure you have met the following requirements:
+- Node.js (v14.0.0 or later)
+- npm (v6.0.0 or later)
+- Aptos CLI (latest version)
+- An Aptos wallet (e.g., Petra, Martian)
 
-**Security:** Funds are held and transferred through verified logic.
+## ✅ Installation
 
-**Automation:** Once the required total amount is collected, it auto-settles by transferring the funds to the designated recipient.
------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **> git --version**
 
